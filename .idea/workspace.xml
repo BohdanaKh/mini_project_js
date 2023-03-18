@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02b8626f-6a9e-4648-95a7-e07f63217f8c" name="Changes" comment="" />
+    <list default="true" id="02b8626f-6a9e-4648-95a7-e07f63217f8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/comments/main_post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comments/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/main_details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2NCFACo5k3v7XqK7xOLPxS5wXEz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,9 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -29,7 +52,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679160011992</updated>
+      <workItem from="1679160013272" duration="2179000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
