@@ -32,8 +32,8 @@ h1{
 
 }
 #postsContainer  {
-    margin: 80px;
-    width: 80%;
+    margin: 30px;
+    width: 98%;
     height: 50%;
     background-color: lavender;
     display: flex;
@@ -43,6 +43,7 @@ h1{
     align-items: center;
 }
 #commentsDiv  {
+    margin-top: 10%;
     width: 90%;
     height: 50%;
     background-color: thistle;
@@ -111,7 +112,7 @@ h1{
 .comment{
     width: 100%;
     color: dimgrey;
-    margin:0 5px;
+    margin:10px 0;
     text-align: center;
     border-bottom: 3px solid snow;
 }
@@ -127,7 +128,7 @@ h1{
     color: darkblue;
     font-size: 25px;
     text-transform: uppercase;
-    padding: 5px 25px;
+    padding: 10px 25px;
 }
 #posttarget2{
     width: 90%;
@@ -135,7 +136,7 @@ h1{
     text-align: center;
     color: dimgrey;
     font-size: 20px;
-    padding: 5px 25px;
+    padding: 10px 25px;
 }
 #posttarget3{
     width: 90%;
@@ -143,7 +144,7 @@ h1{
     text-align: center;
     color: darkslategrey;
     font-size: 25px;
-    padding: 5px 25px;
+    padding: 10px 25px;
 }
 a{
     width: 50%;

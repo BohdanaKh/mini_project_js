@@ -1,0 +1,31 @@
+@media screen and (max-width: 920px) {
+    #usersContainer, #userPosts, #postsDiv, #commentsDiv  {
+        margin: 0;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .item, #posttarget1, #posttarget2, #posttarget3{
+        width: 80%;
+        font-size: 14px;
+    }
+a{
+    font-size: 14px;
+}
+.userItem{
+    width: 80%;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.itemPost{
+    width: 50%;
+    font-size: 14px;
+}
+.itemCom{
+    width: 98%;
+}
+#postsContainer{
+    margin: 10px;
+    width: 98%;
+}
+}
